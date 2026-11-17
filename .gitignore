@@ -1,4 +1,5 @@
 /var/
 /bin/
+/.toolchain/
 *.log
 .DS_Store
